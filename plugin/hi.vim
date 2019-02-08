@@ -1,5 +1,5 @@
 function! SayHello()
-	echo "Hallo, my name is Inigo Montoya!"
+	echo "Hallo, my name is Inigo Montoya! You keeeled my father!"
 endfunction
 
 function! RPath()
